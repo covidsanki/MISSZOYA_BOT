@@ -580,7 +580,7 @@ __help__ = """
 
 ✗ /quote - `send quotes randomly as text`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: @SWAGxHOUSExCHAT!*
  """
 
 ANIME_HANDLER = DisableAbleCommandHandler("anime", anime, run_async=True)
