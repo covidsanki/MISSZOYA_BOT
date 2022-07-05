@@ -258,7 +258,7 @@ def lowpromote(update: Update, context: CallbackContext) -> str:
         not (promoter.can_promote_members or promoter.status == "creator")
         and user.id not in DRAGONS
     ):
-        message.reply_text("Bhai,Bhen jo bhi ho apke pass ye right na ha sorry 🙂 dil se bura laga support @SWAGxHOUSExCHAT)
+        message.reply_text("Bhai,Bhen jo bhi ho apke pass ye right na ha sorry 🙂 dil se bura laga support @SWAGxHOUSExCHAT")
         return
 
     user_id = extract_user(message, args)
@@ -335,7 +335,7 @@ def fullpromote(update: Update, context: CallbackContext) -> str:
         not (promoter.can_promote_members or promoter.status == "creator")
         and user.id not in DRAGONS
     ):
-        message.reply_text("Bhai,Bhen jo bhi ho apke pass ye right na ha sorry 🙂 dil se bura laga support @SWAGxHOUSExCHAT)
+        message.reply_text("Bhai,Bhen jo bhi ho apke pass ye right na ha sorry 🙂 dil se bura laga support @SWAGxHOUSExCHAT")
         return
 
     user_id = extract_user(message, args)
