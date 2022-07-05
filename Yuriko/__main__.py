@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-yumi_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
+yumi_IMG = "https://te.legra.ph/file/f89db0712e8c266eabde7.jpg"
 
 PM_START_TEXT = """
 *👋 Hello {}*
@@ -88,9 +88,8 @@ Hey There My Name Is *AyraXBot* [I](https://te.legra.ph/file/5f9c68ee2543653a4a9
 Hit /Help To Find Out More About How To Use Me To My Full Potential!
 ────────────────────────
 乂 Ping Time: {}
-乂 {} User, Database {} Chats.
 ────────────────────────
-*Powered By:  @HdNetworkOp*
+*Powered By:  @KINGxMODS*
 """
 
 buttons = [
@@ -100,7 +99,7 @@ buttons = [
     [
         InlineKeyboardButton(text="Aꜱꜱɪꜱᴛᴀɴᴛ", callback_data="yurikorobot_asst"),
         InlineKeyboardButton(
-            text="SᴏᴜʀᴄᴇCᴏᴅᴇ", url="https://github.com/KASHYAP-HD/MISSAYRA_BOT"
+            text="SᴏᴜʀᴄᴇCᴏᴅᴇ", url="https://github.com/covidsanki/MISSZOYA_BOT"
         ),
     ],
     [
@@ -247,7 +246,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/hDfamaily")]]
+                [[InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/SWAGxHOUSExCHAT")]]
             ),
         )
         
@@ -390,10 +389,10 @@ def yurikorobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ", url="https://t.me/hDfamaily"
+                            text="Bᴜɢ'ꜱ", url="https://t.me/SWAGxHOUSExCHAT"
                         ),
                         InlineKeyboardButton(
-                            text="Bᴏᴛ Lɪꜱᴛ", url="https://t.me/HDNETWORKOP"
+                            text="Bᴏᴛ Lɪꜱᴛ", url="https://t.me/KINGxMODS"
                         ),
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="yurikorobot_back")],
@@ -420,7 +419,7 @@ def yurikorobot_about_callback(update, context):
             
             f"\n\n✗ `Firstly Add` {dispatcher.bot.first_name} `to your group by pressing` [here](http://t.me/{dispatcher.bot.username}?startgroup=true)\n"
             f"\n✗ `After adding promote me manually with full rights for faster experience.`\n"
-            f"\n✗ `Than send` `/admincache@MissAyra_Robot` `in that chat to refresh admin list in My database.`\n"
+            f"\n✗ `Than send` `/admincache@MissZoya_Robot` `in that chat to refresh admin list in My database.`\n"
             f"\n\n*All done now use below given button's to know about use!*\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
@@ -446,7 +445,7 @@ def yurikorobot_about_callback(update, context):
         query.message.edit_text(
             text=f"*Let's Make Your Group Bit Effective Now*"
             
-            f"\n✗ `Congragulations, AyraXBot now ready to manage your group.`"
+            f"\n✗ `Congragulations, ZoyaBot now ready to manage your group.`"
             f"\n\n*Admin Tools*"
             f"\n✗ `Basic Admin tools help you to protect and powerup your group.`"
             f"\n✗ `You can ban members, Kick members, Promote someone as admin through commands of bot.`"
@@ -479,10 +478,10 @@ def yurikorobot_about_callback(update, context):
             f"\n*SETUP ASSISTANT*"
             f"\n\n✗ `1.) first, add me to your group.`"
             f"\n\n✗ `2.) then promote me as admin and give all permissions except anonymous admin.`"
-            f"\n\n✗ `3.) add` @Ayramusicbot `to your group:`"
+            f"\n\n✗ `3.) add` @MISSZOYAASSISTENT `to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
-            f"\n\n✗ *Lets Enjoy The Ayra Music And Join Support Group @HdFamailY*"
-            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*",
+            f"\n\n✗ *Lets Enjoy The Zoya Music And Join Support Group @SWAGxHOUSExCHAT*"
+            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: @KINGxMODS!*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -493,7 +492,7 @@ def yurikorobot_about_callback(update, context):
         query.message.edit_text(
             text=f"*Let's Make Your Group Bit Effective Now*"
             
-            f"\n✗ `Congragulations, AyraXBot now ready to manage your group.`"
+            f"\n✗ `Congragulations, ZoyaBot now ready to manage your group.`"
             f"\n\n*Admin Tools*"
             f"\n✗ `Basic Admin tools help you to protect and powerup your group.`"
             f"\n✗ `You can ban members, Kick members, Promote someone as admin through commands of bot.`"
@@ -515,12 +514,12 @@ def yurikorobot_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Lᴏɢ'ꜱ", url="t.me/AyraLogs"),
-                    InlineKeyboardButton(text="Nᴇᴡꜱ", url="t.me/HdNetworkOp"),
+                    InlineKeyboardButton(text="Lᴏɢ'ꜱ", url="https://t.me/SWAGxHOUSExCHAT"),
+                    InlineKeyboardButton(text="Nᴇᴡꜱ", url="https://t.me/KINGxMODS"),
                  ],
                  [
-                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/hDfamaily"),
-                    InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/HDNETWORKOP"),
+                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/SWAGxHOUSExCHAT"),
+                    InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/KINGxMODS"),
                  ],
                  [
                     InlineKeyboardButton(text="Back", callback_data="yurikorobot_basichelp"),
@@ -531,15 +530,15 @@ def yurikorobot_about_callback(update, context):
         )
     elif query.data == "yurikorobot_credit":
         query.message.edit_text(
-            text=f"<b> CREDIT FOR Ayra DEV'S</b>\n"
+            text=f"<b> CREDIT FOR Zoya DEV'S</b>\n"
             
-            f"\n`✗ Here Some Developers Helping in Making The Ayra Bot`",
+            f"\n`✗ Here Some Developers Helping in Making The Zoya Bot`",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
                     InlineKeyboardButton(text="Kᴀsʜʏᴀᴘ", url="t.me/Kashyap_Is_pro"),
-                    InlineKeyboardButton(text="Cᴀʀʙᴏɴ", url="t.me/CARBONXD"),
+                    InlineKeyboardButton(text="YAMRAJ", url="t.me/SankiXfighter"),
                  ],
                  [
                     InlineKeyboardButton(text="Back", callback_data="yurikorobot_basichelp"),
@@ -555,8 +554,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..😻 I'm *AyraXBot*
-                 \nHere is the [🔥Source Code🔥](https://github.com/KASHYAP-HD/MISSAYRA_BOT) .""",
+            text=""" Hi..😻 I'm *ZoyaXBot*
+                 \nHere is the [🔥Source Code🔥](https://github.com/covidsanki/MISSZOYA_BOT) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -857,7 +856,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "*I Aᴍ Aʟɪᴠᴇ 🔥*")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "*I AM ZOYA 🔥*")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
