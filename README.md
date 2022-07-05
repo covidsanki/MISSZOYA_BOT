@@ -7,11 +7,11 @@
   <a href="https://github.com/covidsanki/MISSZOYARA_BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/HDNETWORKOP"><img src="https://te.legra.ph/file/f89db0712e8c266eabde7.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/KINGxMODS"><img src="https://te.legra.ph/file/f89db0712e8c266eabde7.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://github.com/covidsanki/MISSAYRA_BOT/issues"> <img src="https://img.shields.io/github/issues/KASHYAP-HD/MISSAYRA_BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/network/members""> <img src="https://img.shields.io/github/forks/KASHYAP-HD/MISSAYRA_BOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/covidsanki/MISSZOYAA_BOT/issues"> <img src="https://img.shields.io/github/issues/covidsanki/MISSZOYA_BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/covidsanki/MISSZOYA_BOT/network/members""> <img src="https://img.shields.io/github/forks/KASHYAP-HD/MISSAYRA_BOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
