@@ -1,5 +1,5 @@
 {
-      "name": "Ayra Robot",
+      "name": "Zoya Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://te.legra.ph/file/9f45226e80933720bc7cc.jpg",  
-   "repository": "https://github.com/KASHYAP-HD/MISSAYRA_BOT",
+   "logo":    "https://te.legra.ph/file/f89db0712e8c266eabde7.jpg",  
+   "repository": "https://github.com/covidsanki/MISSAYRA_BOT",
    "addons": [
           {
          "options": {
