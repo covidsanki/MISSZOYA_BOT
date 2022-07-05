@@ -99,7 +99,7 @@ buttons = [
     [
         InlineKeyboardButton(text="Aꜱꜱɪꜱᴛᴀɴᴛ", callback_data="yurikorobot_asst"),
         InlineKeyboardButton(
-            text="SᴏᴜʀᴄᴇCᴏᴅᴇ", url="https://github.com/covidsanki/MISSZOYA_BOT"
+            text="Oᴡɴᴇʀ", url="https://t.me/SankiXfighter"
         ),
     ],
     [
