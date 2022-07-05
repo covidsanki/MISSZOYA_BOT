@@ -66,5 +66,5 @@ Commands
 
 ✗ /antichannel off - `to of antichannel`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: @SWAGxHOUSExCHAT!*
 """
