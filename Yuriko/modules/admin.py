@@ -176,7 +176,7 @@ def promote(update: Update, context: CallbackContext) -> str:
         not (promoter.can_promote_members or promoter.status == "creator")
         and user.id not in DRAGONS
     ):
-        message.reply_text("Bhai,Bhen jo bhi ho apke pass ye right na ha sorry aur so sameless you are saste admin  🙂 dil se bura laga support @SWAGxHOUSExCHAT)
+        message.reply_text("Bhai,Bhen jo bhi ho apke pass ye right na ha sorry aur so sameless you are saste admin  🙂 dil se bura laga support @SWAGxHOUSExCHAT")
         return
 
     user_id = extract_user(message, args)
