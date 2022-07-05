@@ -418,7 +418,7 @@ __help__ = """
 
 ✗ /allowconnect - `<yes/no> allow a user to connect to a chat`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: @SWAGxHOUSExCHAT!*
 """
 
 CONNECT_CHAT_HANDLER = CommandHandler(
