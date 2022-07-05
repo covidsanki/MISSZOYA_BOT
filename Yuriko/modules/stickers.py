@@ -433,7 +433,7 @@ __help__ = """
 
 ✗ /mmf - `To draw a text for sticker or pohots`
 
-**✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!**
+**✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: @SWAGxHOUSExCHAT!**
 """
 
 __lovely_advance__ = __help__
