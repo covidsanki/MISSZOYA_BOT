@@ -1,16 +1,16 @@
 
-<h1 align="center"><b> ♡ Miss Arya Management Bot ♡ </b></h1>
+<h1 align="center"><b> ♡ Miss Zoya Management Bot ♡ </b></h1>
 
-<h4 align="center">Miss Arya A Powerful, Smart And Simple Group Manager <br>Written with AioGram , Pyrogram and Telethon</h4>
+<h4 align="center">Miss Zoya A Powerful, Smart And Simple Group Manager <br>Written with AioGram , Pyrogram and Telethon</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/covidsanki/MISSZOYARA_BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/HDNETWORKOP"><img src="https://te.legra.ph/file/d297b40e9b13f1b5f81fb.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/HDNETWORKOP"><img src="https://te.legra.ph/file/f89db0712e8c266eabde7.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/issues"> <img src="https://img.shields.io/github/issues/KASHYAP-HD/MISSAYRA_BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/covidsanki/MISSAYRA_BOT/issues"> <img src="https://img.shields.io/github/issues/KASHYAP-HD/MISSAYRA_BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/network/members""> <img src="https://img.shields.io/github/forks/KASHYAP-HD/MISSAYRA_BOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
