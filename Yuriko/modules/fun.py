@@ -367,7 +367,7 @@ __help__ = """
 
 ✗ /lined - `<text>: lined your text!`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: @SWAGxHOUSExCHAT!*
 """
 
 SANITIZE_HANDLER = DisableAbleCommandHandler("sanitize", sanitize, run_async=True)
