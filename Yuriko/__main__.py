@@ -84,7 +84,7 @@ yumi_IMG = "https://te.legra.ph/file/f89db0712e8c266eabde7.jpg"
 PM_START_TEXT = """
 *👋 Hello {}*
 
-Hey There My Name Is *AyraXBot* [I](https://te.legra.ph/file/5f9c68ee2543653a4a948.jpg) Am Here To Help You Manage Your Groups!
+Hey There My Name Is *ZoyaBot* [I](https://te.legra.ph/file/f89db0712e8c266eabde7.jpg) Am Here To Help You Manage Your Groups!
 Hit /Help To Find Out More About How To Use Me To My Full Potential!
 ────────────────────────
 乂 Ping Time: {}
